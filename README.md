@@ -1,11 +1,8 @@
 # Android Malware Detection System Using Machine Learning
 
 > ## Purpose:
-Project at [IIITD](https://www.iiitd.ac.in/)
-under the course [CSE343 : Machine Learning](http://techtree.iiitd.edu.in/viewDescription/filename?=ECE363 "Course Description") under the guidance of Professor [Anubha Gupta](https://www.iiitd.ac.in/anubha "Profile")
 
-> ## Contributors:
-- [Bijendar Prasad](https://Findcoding "GitHub Profile")
+
 
 > ## Motivation:
 
